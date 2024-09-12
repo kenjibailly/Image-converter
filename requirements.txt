@@ -1,2 +1,5 @@
 Pillow
+pillow_avif_plugin
+pillow_heif
 PyQt6
+PyQt6_sip
